@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequelMovieAPI", "SequelMovieAPI\SequelMovieAPI.csproj", "{34DA6B58-C58D-416A-99CE-F510D9BE4AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequelMovieAPI.Models", "Models\SequelMovieAPI.Models.csproj", "{B2A1ABC0-A205-4847-A570-E5E9A2191071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DA6B58-C58D-416A-99CE-F510D9BE4AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DA6B58-C58D-416A-99CE-F510D9BE4AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DA6B58-C58D-416A-99CE-F510D9BE4AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DA6B58-C58D-416A-99CE-F510D9BE4AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A1ABC0-A205-4847-A570-E5E9A2191071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A1ABC0-A205-4847-A570-E5E9A2191071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A1ABC0-A205-4847-A570-E5E9A2191071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A1ABC0-A205-4847-A570-E5E9A2191071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213DAB7F-ADB0-42E6-BBF5-ACBADED49FE7}
+	EndGlobalSection
+EndGlobal
